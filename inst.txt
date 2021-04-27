@@ -1,0 +1,4 @@
+python openconnect-gp-okta.py vpn-mum.ugamsolutions.com --sudo
+
+
+python openconnect-gp-okta.py vpn-blr.ugamsolutions.com --sudo
